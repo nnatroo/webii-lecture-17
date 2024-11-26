@@ -1,0 +1,21 @@
+table {
+  tr {
+    th {
+      border: 1px solid #000000;
+    }
+    td {
+      border: 1px solid #000000;
+    }
+  }
+}
+
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+}
